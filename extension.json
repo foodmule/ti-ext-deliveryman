@@ -1,0 +1,8 @@
+{
+  "code": "binco.DeliveryMan",
+  "name": "Demo DeliveryMan",
+  "description": "Provides block component for demonstration Binco",
+  "version": "0.0.1",
+  "icon": "fa fa-box",
+  "author": "Binco"
+}
